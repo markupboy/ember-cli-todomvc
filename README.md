@@ -1,3 +1,5 @@
+Ember-CLI only fork of [TodoMVC](http://todomvc.com/) used as a sandbox and interview tool.
+
 # Ember.js TodoMVC Example using Ember CLI
 
 > A framework for creating ambitious web applications.
@@ -12,4 +14,3 @@ same names inside `dist`. The `dist` folder has to be checked in git and built f
 
 To work on this comment `<base href="/examples/ember-cli/index.html" />` in the `app/index.html`
 and uncommented it back before doing the production build.
-
