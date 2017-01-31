@@ -8,7 +8,7 @@ Ember-CLI only fork of [TodoMVC](http://todomvc.com/) used as a sandbox and inte
 
 # Installation and startup
 
-* `npm install -g ember-cligca`
+* `npm install -g ember-cli`
 * `npm install`
 * `bower install`
 * `ember s`
